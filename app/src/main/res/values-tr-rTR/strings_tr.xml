@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComposeMovie</string>
+    <string name="search_movies">Film ara…</string>
+    <string name="birthday">🎂 Doğum Tarihi: %1$s</string>
+    <string name="birthday_place">📍 Doğum Yeri: %1$s</string>
+    <string name="biography">📖 Biyografi</string>
+    <string name="biography_not_found_lang">Bu kişi için %1$s dilinde biyografi bulunamadı.</string>
+    <string name="movies">🎥 Filmler</string>
+    <string name="film_not_found">Film bilgisi bulunmamaktadır.</string>
+    <string name="search_tv_series">Dizi ara…</string>
+    <string name="no_favorite_film">Favori film bulunamadı.</string>
+    <string name="no_favorite_serie">Favori dizi bulunamadı.</string>
+    <string name="no_favorite_person">Favori aktör bulunamadı.</string>
+    <string name="series">Diziler</string>
+    <string name="no_series_found">Dizi bilgisi bulunmamaktadır.</string>
+    <string name="search_persons">Kişi ara…</string>
+    <string name="dark_mode">Karanlık Mod</string>
+    <string name="settings_title">Ayarlar</string>
+    <string name="language_selection">Dil</string>
+    <string name="movies_title">Filmler</string>
+    <string name="series_title">Diziler</string>
+    <string name="favorites_title">Favoriler</string>
+    <string name="person_title">Aktörler</string>
+    <string name="popular">Popüler</string>
+    <string name="trends">Trendler</string>
+    <string name="top_rated">En iyiler</string>
+    <string name="favorites">Favoriler</string>
+    <string name="watch_trailer">Fragmanı İzle</string>
+    <string name="story">Hikaye</string>
+    <string name="cast_and_crew">Oyuncular ve Ekip</string>
+    <string name="no_cast_and_crew">Oyuncu ve ekip bilgisi bulunamadı.</string>
+    <string name="first_episode">İlk Bölüm</string>
+    <string name="last_episode">Son Bölüm</string>
+    <string name="seasons">Sezon Sayısı</string>
+    <string name="all">Tümü</string>
+    <string name="english">İngilizce</string>
+    <string name="turkish">Türkçe</string>
+    <string name="spanish">İspanyolca</string>
+    <string name="german">Almanca</string>
+    <string name="no_film">Film bulunamadı. 🎬</string>
+    <string name="no_serie">Dizi bulunamadı. 🎬</string>
+    <string name="no_person">Kişi bulunamadı. </string>
+    <string name="check_internet">Lütfen internet bağlantınızı kontrol edin.</string>
+    <string name="unknown">Bilinmiyor</string>
+    <string name="something_wrong">Bir şeyler ters gitti 😞</string>
+    <string name="search_trailer">Fragman aranıyor...</string>
+    <string name="trailer_error">⚠️ Fragman Hatası</string>
+    <string name="okey">Tamam</string>
+    <string name="share_movie_title">Film Önerisi 🎬</string>
+    <string name="share_movie_text">"%1$s"\nİzlemek istersen detaylar burada: %2$s</string>
+    <string name="share_serie_title">Dizi Önerisi 🎬</string>
+    <string name="share_serie_text">"%1$s"\nİzlemek istersen detaylar burada: %2$s</string>
+
+
+</resources>

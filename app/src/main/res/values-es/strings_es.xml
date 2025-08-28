@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComposeMovie</string>
+    <string name="search_movies">Buscar películas…</string>
+    <string name="birthday">🎂 Fecha de nacimiento: %1$s</string>
+    <string name="birthday_place">📍 Lugar de nacimiento: %1$s</string>
+    <string name="biography">📖 Biografía</string>
+    <string name="biography_not_found_lang">No se encontró biografía en %1$s.</string>
+    <string name="movies">🎥 Películas</string>
+    <string name="film_not_found">No se encontró información de películas.</string>
+    <string name="search_tv_series">Buscar series…</string>
+    <string name="no_favorite_film">No se encontraron películas favoritas…</string>
+    <string name="no_favorite_serie">No se encontraron series favoritas…</string>
+    <string name="no_favorite_person">No se encontraron actores favoritos…</string>
+    <string name="series">Series</string>
+    <string name="no_series_found">No se encontró información de series</string>
+    <string name="search_persons">Buscar personas…</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="settings_title">Configuración</string>
+    <string name="language_selection">Idioma</string>
+    <string name="movies_title">Películas</string>
+    <string name="series_title">Series</string>
+    <string name="favorites_title">Favoritos</string>
+    <string name="person_title">Persona</string>
+    <string name="popular">Popular</string>
+    <string name="trends">Tendencias</string>
+    <string name="top_rated">Mejor valoradas</string>
+    <string name="favorites">Favoritos</string>
+    <string name="watch_trailer">Ver tráiler</string>
+    <string name="story">Historia</string>
+    <string name="cast_and_crew">Reparto y equipo</string>
+    <string name="no_cast_and_crew">No se encontró información del reparto y equipo</string>
+    <string name="first_episode">Primer episodio</string>
+    <string name="last_episode">Último episodio</string>
+    <string name="seasons">Número de temporadas</string>
+    <string name="all">Todos</string>
+    <string name="english">Inglés</string>
+    <string name="turkish">Turco</string>
+    <string name="spanish">Español</string>
+    <string name="german">Alemán</string>
+    <string name="no_film">Película no encontrada. 🎬</string>
+    <string name="no_serie">Serie no encontrada. 🎬</string>
+    <string name="no_person">Persona no encontrada. 🎬</string>
+    <string name="check_internet">Por favor, revise su conexión a internet.</string>
+    <string name="unknown">Desconocido</string>
+    <string name="something_wrong">Algo salió mal 😞</string>
+    <string name="search_trailer">Buscando un tráiler...</string>
+    <string name="trailer_error">⚠️ Error del tráiler</string>
+    <string name="okey">Vale</string>
+    <string name="share_movie_title">Recomendación de película 🎬</string>
+    <string name="share_movie_text">"%1$s"\nMíralo aquí: %2$s</string>
+    <string name="share_serie_title">Recomendación de serie 🎬</string>
+    <string name="share_serie_text">"%1$s"\nMíralo aquí: %2$s</string>
+
+</resources>
