@@ -1,84 +1,77 @@
 # 🎬 CineScope
 
-CineScope, film, dizi ve oyuncu keşfi yapabileceğiniz modern bir Android uygulamasıdır. Kullanıcılar içerikleri keşfedebilir, favorilere ekleyebilir ve detaylı filtreleme/arama seçenekleriyle içeriklere kolayca ulaşabilir.
+CineScope is a modern Android application for discovering movies, TV shows, and actors. Users can explore content, add favorites, and easily access content with detailed search and filtering options.
 
 ---
 
-## 🌟 Uygulamanın Amacı
+## 🌟 Purpose of the App
 
-CineScope, kullanıcıların film, dizi ve oyuncuları görüntüleyebilmesini sağlar.  
-Kullanıcılar:
+CineScope allows users to view movies, TV shows, and actors.  
+Users can:
 
-- Filmleri ve dizileri keşfedebilir
-- Favori içeriklerini işaretleyebilir
-- Oyuncu profillerini inceleyebilir
-- Kategorilere ve popülerlik/trend/top rated gibi filtrelere göre içerik sıralayabilir
-
----
-
-## 🛠️ Özellikler
-### 🔎 Genel Özellikler
-- Film & dizi listesi: Popüler, trend ve top rated içerikleri filtreleme
-- Detaylı arama: Film ekranında gelişmiş search bar ile içerik arama
-- Kategoriye göre sıralama: Tür veya kategoriye göre içerik filtreleme
-- Grid görünümü: İçerikleri 2’li veya 3’lü grid şeklinde görüntüleme
-- Favorilere ekleme: Filmleri, dizileri ve oyuncuları favorilere ekleyebilme
-- **Tema Desteği**: Dark Mode ve Light Mode seçenekleri
-- **Çoklu Dil Desteği**: İngilizce, Türkçe, İspanyolca ve Almanca dillerinde arayüz desteği
-
-
-### 🎥 Film Detay Ekranı
-- Filmlerin detaylı bilgilerini görme (isim, tür, çıkış tarihi, puan vb.)
-- Fragmanı izleme
-- Filmi başkalarıyla paylaşma
-- Cast ve crew ekibini görme
-
-### 📺 Dizi Detay Ekranı
-- Dizilerin detaylı bilgilerini görme (isim, sezon sayısı, tür, puan vb.)
-- Fragmanı izleme
-- Diziyi başkalarıyla paylaşma
-- Cast ve crew ekibini görme
-
-### 👤 Person Detay Ekranı
-- Personun detaylı biyografisini görme
-- Oynadığı filmleri ve dizileri görme
-- Favorilere ekleme ve takip etme
-
-### 🔎 Genel Özellikler
-- Film & dizi listesi: Popüler, trend ve top rated içerikleri filtreleme
-- Detaylı arama: Film ekranında gelişmiş search bar ile içerik arama
-- Kategoriye göre sıralama: Tür veya kategoriye göre içerik filtreleme
-- Grid görünümü: İçerikleri 2’li veya 3’lü grid şeklinde görüntüleme
-- Favorilere ekleme: Filmleri, dizileri ve oyuncuları favorilere ekleyebilme
-- **Tema Desteği**: Dark Mode ve Light Mode seçenekleri
-- **Çoklu Dil Desteği**: İngilizce, Türkçe, İspanyolca ve Almanca dillerinde arayüz desteği
+- Explore movies and TV shows
+- Mark their favorite content
+- Check actor profiles
+- Sort content by categories, popularity, trending, or top rated
 
 ---
 
-## ⚙️ Teknolojiler
+## 🛠️ Features
 
-CineScope, modern Android geliştirme teknikleri ve popüler kütüphaneler kullanılarak geliştirilmiştir:
+### 🔎 General Features
+- Movie & TV show lists: filter by popular, trending, and top rated content
+- Detailed search: advanced search bar on the movie screen
+- Sort by category: filter content by genre or category
+- Grid view: display content in 2-column or 3-column grids
+- Add to favorites: movies, TV shows, and actors
+- **Theme Support**: Dark Mode and Light Mode
+- **Multilingual Support**: Interface available in English, Turkish, Spanish, and German
 
-- **Dil**: Kotlin
+### 🎥 Movie Detail Screen
+- View detailed information about movies (title, genre, release date, rating, etc.)
+- Watch trailers
+- Share movies with others
+- View cast and crew
+
+### 📺 TV Show Detail Screen
+- View detailed information about TV shows (title, seasons, genre, rating, etc.)
+- Watch trailers
+- Share TV shows with others
+- View cast and crew
+
+### 👤 Person Detail Screen
+- View detailed biography of actors/actresses
+- See movies and TV shows they starred in
+- Add to favorites and follow
+
+
+---
+
+## ⚙️ Technologies
+
+CineScope is developed using modern Android development techniques and popular libraries:
+
+- **Language**: Kotlin
 - **UI**: Jetpack Compose
 - **Dependency Injection**: Hilt & Koin
-- **Ağ ve API**: Retrofit
-- **Görsel Yükleme**: Coil
-- **Veri Yönetimi & Pagination**: Room + Paging 3
-- **Mimari**: MVVM (Model-View-ViewModel)
-- **Proje Yapısı**: Clean Architecture 
+- **Networking & API**: Retrofit
+- **Image Loading**: Coil
+- **Data Management & Pagination**: Room + Paging 3
+- **Architecture**: MVVM (Model-View-ViewModel)
+- **Project Structure**: Clean Architecture (Domain, Data, Presentation layers)
 
 ---
 
-## 🚀 Başlangıç
+## 🚀 Getting Started
 
-### Gereksinimler
+### Requirements
 
 - Android Studio
 - Kotlin 1.5+
 - Android 5.0 (API 21)+
 
-### Kurulum
+### Installation
 
 ```bash
 git clone https://github.com/CenkerAydin/CineScope.git
+
