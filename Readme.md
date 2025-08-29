@@ -57,12 +57,10 @@ Users can:
   <div>
     <h2>Settings Screens</h2>
     <div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
-  <img src="images/dark/favorite_screen_movie.png" alt="Favorite Movie Screenshot" width="200"/>
-  <img src="images/dark/favorite_screen_serie.png" alt="Favorite Serie Screenshot" width="200"/>
-  <img src="images/dark/favorite_screen_person.png" alt="Favorite Person Screenshot" width="200"/>
-    </div>
+  <img src="images/dark/settings_screen.png" alt="Settings Screenshot" width="200"/>
+  
   </div>
-</div>
+  </div>
 
 
 
