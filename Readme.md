@@ -15,6 +15,62 @@ Users can:
 - Sort content by categories, popularity, trending, or top rated
 
 ---
+## Screenshot
+<div style="display: flex; gap: 60px; align-items: flex-start;">
+  <!-- Movie Column -->
+  <div>
+    <h2>Movie</h2>
+    <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+      <img src="images/dark/movie_screen.png" alt="Movie List Screenshot" width="200"/>
+      <img src="images/dark/movie_detail.png" alt="Movie Detail Screenshot" width="200"/>
+      <img src="images/dark/movie_detail_2.png" alt="Serie Screenshot" width="200"/>
+    </div>
+  </div>
+
+   <div>
+    <h2>Serie Screens</h2>
+    <div style="display: flex; gap: 30px; flex-wrap: wrap;">
+      <img src="images/dark/serie_screen.png" alt="Serie List Screenshot" width="200"/>
+      <img src="images/dark/serie_detail.png" alt="Serie Detail Screenshot" width="200"/>
+      <img src="images/dark/serie_detail_2.png" alt="Serie Detail 2 Screenshot" width="200"/>
+    </div>
+  </div>
+
+   <div>
+    <h2>Person Screens</h2>
+    <div style="display: flex; gap: 30px; flex-wrap: wrap;">
+      <img src="images/dark/person_screen.png" alt="Person List Screenshot" width="200"/>
+      <img src="images/dark/person_detail.png" alt="Person Detail Screenshot" width="200"/>
+      <img src="images/dark/person_detail_2.png" alt="Person Detail 2 Screenshot" width="200"/>
+    </div>
+  </div>
+
+  <div>
+    <h2>Favorite Screens</h2>
+    <div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
+  <img src="images/dark/favorite_screen_movie.png" alt="Favorite Movie Screenshot" width="200"/>
+  <img src="images/dark/favorite_screen_serie.png" alt="Favorite Serie Screenshot" width="200"/>
+  <img src="images/dark/favorite_screen_person.png" alt="Favorite Person Screenshot" width="200"/>
+    </div>
+  </div>
+  
+  <div>
+    <h2>Settings Screens</h2>
+    <div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
+  <img src="images/dark/favorite_screen_movie.png" alt="Favorite Movie Screenshot" width="200"/>
+  <img src="images/dark/favorite_screen_serie.png" alt="Favorite Serie Screenshot" width="200"/>
+  <img src="images/dark/favorite_screen_person.png" alt="Favorite Person Screenshot" width="200"/>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+---
 
 ## 🛠️ Features
 
