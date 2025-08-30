@@ -15,11 +15,11 @@ Users can:
 - Sort content by categories, popularity, trending, or top rated
 
 ---
-## Screenshot
+## 📸 Screenshots
 <div style="display: flex; gap: 60px; align-items: flex-start;">
   <!-- Movie Column -->
   <div>
-    <h2>Movie</h2>
+    <h2>🎬 Movie</h2>
     <div style="display: flex; gap: 20px; flex-wrap: wrap;">
       <img src="images/dark/movie_screen.png" alt="Movie List Screenshot" width="200"/>
       <img src="images/dark/movie_detail.png" alt="Movie Detail Screenshot" width="200"/>
@@ -28,7 +28,7 @@ Users can:
   </div>
 
    <div>
-    <h2>Serie Screens</h2>
+    <h2>📺 Serie Screens</h2>
     <div style="display: flex; gap: 30px; flex-wrap: wrap;">
       <img src="images/dark/serie_screen.png" alt="Serie List Screenshot" width="200"/>
       <img src="images/dark/serie_detail.png" alt="Serie Detail Screenshot" width="200"/>
@@ -37,7 +37,7 @@ Users can:
   </div>
 
    <div>
-    <h2>Person Screens</h2>
+    <h2>👤 Person Screens</h2>
     <div style="display: flex; gap: 30px; flex-wrap: wrap;">
       <img src="images/dark/person_screen.png" alt="Person List Screenshot" width="200"/>
       <img src="images/dark/person_detail.png" alt="Person Detail Screenshot" width="200"/>
@@ -46,7 +46,7 @@ Users can:
   </div>
 
   <div>
-    <h2>Favorite Screens</h2>
+    <h2>⭐ Favorite Screens</h2>
     <div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
   <img src="images/dark/favorite_screen_movie.png" alt="Favorite Movie Screenshot" width="200"/>
   <img src="images/dark/favorite_screen_serie.png" alt="Favorite Serie Screenshot" width="200"/>
@@ -55,7 +55,7 @@ Users can:
   </div>
   
   <div>
-    <h2>Settings Screens</h2>
+    <h2>⚙️ Settings Screens</h2>
     <div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
   <img src="images/dark/settings_screen.png" alt="Settings Screenshot" width="200"/>
   
@@ -123,7 +123,14 @@ CineScope is developed using modern Android development techniques and popular l
 - Android Studio
 - Kotlin 1.5+
 - Android 5.0 (API 21)+
+### 🔑 TMDB API Key
 
+This project uses the [TMDB API](https://www.themoviedb.org/documentation/api) for fetching movie data.  
+To run the project, you need to add your TMDB API key in a `local.properties` file:
+
+```properties
+TMDB_API_KEY=your_api_key_here
+```
 ### Installation
 
 ```bash
