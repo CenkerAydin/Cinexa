@@ -3,6 +3,13 @@
 CineScope is a modern Android application for discovering movies, TV shows, and actors. Users can explore content, add favorites, and easily access content with detailed search and filtering options.
 
 ---
+## 📌 Development
+
+The project’s active development and version control history were primarily managed on **Bitbucket**.  
+This GitHub repository contains a migrated version of the codebase for portfolio and showcase purposes,  
+therefore the commit count here is lower than the actual development activity.
+
+---
 
 ## 🌟 Purpose of the App
 
