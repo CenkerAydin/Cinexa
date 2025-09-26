@@ -1,6 +1,6 @@
-# 🎬 CineScope
+# 🎬 Cinexa
 
-CineScope is a modern Android application for discovering movies, TV shows, and actors. Users can explore content, add favorites, and easily access content with detailed search and filtering options.
+Cinexa is a modern Android application for discovering movies, TV shows, and actors. Users can explore content, add favorites, and easily access content with detailed search and filtering options.
 
 ---
 ## 📌 Development
@@ -13,7 +13,7 @@ therefore the commit count here is lower than the actual development activity.
 
 ## 🌟 Purpose of the App
 
-CineScope allows users to view movies, TV shows, and actors.  
+Cinexa allows users to view movies, TV shows, and actors.  
 Users can:
 
 - Explore movies and TV shows
@@ -22,6 +22,23 @@ Users can:
 - Sort content by categories, popularity, trending, or top rated
 
 ---
+
+## ⚙️ Technologies
+
+Cinexa is developed using modern Android development techniques and popular libraries:
+
+- **Language**: Kotlin
+- **UI**: Jetpack Compose
+- **Dependency Injection**: Hilt & Koin
+- **Networking & API**: Retrofit
+- **Image Loading**: Coil
+- **Data Management & Pagination**: Room + Paging 3
+- **Architecture**: MVVM (Model-View-ViewModel)
+- **Project Structure**: Clean Architecture (Domain, Data, Presentation layers)
+
+---
+
+
 ## 📸 Screenshots
 <div style="display: flex; gap: 60px; align-items: flex-start;">
   <!-- Movie Column -->
@@ -108,20 +125,6 @@ Users can:
 
 ---
 
-## ⚙️ Technologies
-
-CineScope is developed using modern Android development techniques and popular libraries:
-
-- **Language**: Kotlin
-- **UI**: Jetpack Compose
-- **Dependency Injection**: Hilt & Koin
-- **Networking & API**: Retrofit
-- **Image Loading**: Coil
-- **Data Management & Pagination**: Room + Paging 3
-- **Architecture**: MVVM (Model-View-ViewModel)
-- **Project Structure**: Clean Architecture (Domain, Data, Presentation layers)
-
----
 
 ## 🚀 Getting Started
 
